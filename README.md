@@ -1,4 +1,4 @@
-1、本文为第十九届研究生电子设计竞赛word模板，如有错误支持欢迎指出
+1、本文为第十九届研究生电子设计竞赛技术论文word模板，如有错误支持欢迎指出
 
 2、论文样式链接：https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl
 
